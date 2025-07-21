@@ -15,7 +15,7 @@ This repository contains a Bash script to install Docker and run Jenkins and Bit
 
 ## 📦 Requirements
 
-- CentOS or Amazon Linux EC2 instance
+- Amazon Linux 2023 EC2 instance
 - Root privileges or `sudo` access
 
 ---
@@ -32,13 +32,13 @@ cd jenkins-bitbucket-docker-setup
 2. Make sure it’s executable:
 
 ```bash
-sudo chmod +x setup.sh
+sudo chmod +x Docker-Jenkins-BitBucket.sh
 ```
 
 3. Run the script:
 
 ```bash
-sudo ./setup.sh
+sudo ./Docker-Jenkins-BitBucket.sh
 ```
 ---
 
