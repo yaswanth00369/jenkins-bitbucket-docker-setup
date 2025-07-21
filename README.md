@@ -44,8 +44,8 @@ sudo ./Docker-Jenkins-BitBucket.sh
 
 ## 🌐 Access URLs
 
-Jenkins: http://<EC2-PUBLIC-IP>:8080
+Jenkins: http://EC2-PUBLIC-IP:8080
 
-Bitbucket: http://<EC2-PUBLIC-IP>:7990
+Bitbucket: http://EC2-PUBLIC-IP:7990
 
 **Note**: Jenkins initial password is displayed after installation.
